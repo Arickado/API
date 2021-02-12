@@ -1,0 +1,74 @@
+[
+  {
+    "nome": "Forno Airfryer",
+    "descricao": "Ovenfryer 10L Cuisinart 127V",
+    "preco": 1481.89,
+    "imagem": "AirFryer1.png"
+  },
+  {
+    "nome": "Fritadeira Elétrica",
+    "descricao": "Airfryer Viva Black Edition PHILIPS WALITA 220V",
+    "preco": 1253.89,
+    "imagem": "AirFryer2.png"
+  },
+  {
+    "nome": "Fritadeira Elétrica",
+    "descricao": "Airfryer Viva Philips Walita N 220V",
+    "preco": 1128.49,
+    "imagem": "AirFryer3.png"
+  },
+  {
+    "nome": "Fritadeira Elétrica",
+    "descricao": "Turbofryer Avance Philips Walita 127V",
+    "preco": 2165.89,
+    "imagem": "AirFryer4.png"
+  },
+  {
+    "nome": "Geladeira Brastemp",
+    "descricao": "Frost Free Duplex 375 litros cor Inox com Espaço Adapt 110V",
+    "preco": 2249.10,
+    "imagem": "Geladeira1.png"
+  },
+  {
+    "nome": "Geladeira Electrolux",
+    "descricao": "Cycle Defrost 362 Litros DC44 Branco - 127V",
+    "preco": 1850.50,
+    "imagem": "Geladeira2.png"
+  },
+  {
+    "nome": "Refrigerador Brastemp",
+    "descricao": "BRM44HK Frost Free com Gavetão de Legumes Fresh Zone Inox - 375L - 220V",
+    "preco": 2338.99,
+    "imagem": "Geladeira3.png"
+  },
+  {
+    "nome": "Refrigerador Consul",
+    "descricao": "CRD37EB com Prateleiras Removíveis e Reguláveis Branco - 334L - 110v",
+    "preco": 1597.06,
+    "imagem": "Geladeira4.png"
+  },
+  {
+    "nome": "Torradeira DeLonghi",
+    "descricao": "TTM400 Inox 600W 6 Temperaturas (110)",
+    "preco": 128.90,
+    "imagem": "Torradeira1.png"
+  },
+  {
+    "nome": "Torradeira Easyline",
+    "descricao": "Preta - 220v - Electrolux",
+    "preco": 129.00,
+    "imagem": "Torradeira2.png"
+  },
+  {
+    "nome": "Torradeira Oster",
+    "descricao": "Square Retro Toaster - 220V",
+    "preco": 169.90,
+    "imagem": "Torradeira3.png"
+  },
+  {
+    "nome": "Torradeira Cuisinart",
+    "descricao": "para 2 Fatias com Visor em Vidro 127V",
+    "preco": 569.90,
+    "imagem": "Torradeira4.png"
+  }
+]
